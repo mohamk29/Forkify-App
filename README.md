@@ -10,4 +10,5 @@ An example search:
 Adding your own recipe:
 <img width="1440" alt="Screenshot 2023-08-31 at 4 28 42 PM" src="https://github.com/mohamk29/forkify-App/assets/49575465/1f982bd0-2841-49ba-9b35-cb08ed48b641">
 Bookmarking your recipe:
-![Uploading Screenshot 2023-08-31 at 4.28.48 PM.png…]()
+<img width="1440" alt="Screenshot 2023-08-31 at 4 28 48 PM" src="https://github.com/mohamk29/forkify-App/assets/49575465/d312424a-feb4-4985-99b8-9979c745bad5">
+
